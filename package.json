@@ -1,0 +1,8 @@
+{
+  "name": "rutas-remitos-get",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Organizador de remitos con optimización de recorridos mediante Google Maps Routes API",
+  "scripts": { "dev": "vercel dev" },
+  "engines": { "node": ">=18" }
+}
